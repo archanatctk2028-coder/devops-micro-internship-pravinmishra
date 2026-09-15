@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that success does not come only from talent or luck. I believe that discipline is more important than motivation because motivation can disappear, but discipline helps us continue working. I also believe that learning should never stop, especially in the technology industry, because technologies keep changing. Money is important, but it should not be the only goal in life. I believe that consistent learning, hard work, good health, strong relationships, and patience together create a successful and meaningful life. I would rather improve myself slowly every day than compare my progress with others.
 
 ---
 
