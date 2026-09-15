@@ -390,7 +390,7 @@ I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work 
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 `Add your URL here`
 
