@@ -173,7 +173,7 @@ Her 2.0 version represented a person who had moved from simply learning technolo
 
 Looking back, Archana’s biggest achievement was not a single certificate, project, or job. It was the person she had become through years of continuous learning. Her 2.0 version had a strong portfolio, an active GitHub profile, practical experience, professional confidence, and a commitment to keep learning and helping others.
 
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.archana-kota html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
 
 Tag Pravin Mishra in your LinkedIn post, then tag Lead Co-Mentor — Anjana Muthunayake.
 
