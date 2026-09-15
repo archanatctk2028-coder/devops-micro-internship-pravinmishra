@@ -392,27 +392,6 @@ I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work 
 
 https://www.linkedin.com/in/archana-kota-0a7a41434/
 
-`Week 00 | DevOps Micro Internship (DMI) — Cohort 3
-I’m excited to share my learning from Week 00 of the DevOps Micro Internship with Agentic AI.
-💬 ChatGPT
- I learned how networking protocols act as a set of rules that allow computers to communicate and exchange data. I also used ChatGPT as a learning assistant to understand technical concepts with simple, real-life examples.
-🌐 Internet & Networking
- I explored how a user can access a website hosted anywhere in the world. Key concepts I learned include:
-Packet Switching — breaking data into smaller packets for transmission
-IP Address — identifying and routing data to the correct destination
-TCP/IP — managing communication, addressing, and reliable delivery
-HTTP/HTTPS — enabling communication between browsers and web servers
-🏗️ App Architecture
- I learned the difference between two-tier and three-tier architectures:
-Two-Tier: Frontend → Database
-Three-Tier: Frontend → Backend → Database
-I also explored technologies commonly used at each layer, such as HTML/CSS/JavaScript for frontend, Node.js for backend, and MySQL/PostgreSQL for databases.
-🌍 DNS
- I learned that DNS works like the internet’s phonebook by translating domain names into IP addresses. For an IPv4 address such as 52.172.142.222, an A record can be used to connect the domain to the server.
-💻 VS Code Setup
- I set up my Visual Studio Code environment, opened the integrated terminal, and practiced basic commands while getting familiar with the development environment.
-This week helped me build a stronger foundation in Internet, Networking, Application Architecture, DNS, and developer tools — important concepts for starting my DevOps journey. 🚀
-A big thank you to @Pravin Mishra(https://lnkd.in/dwBAfy4x) and @Anjana Muthunayake(https://lnkd.in/drKTZZkd) for guiding learners through this amazing DevOps journey.
 
 
 ---
