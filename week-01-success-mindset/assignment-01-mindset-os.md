@@ -55,11 +55,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Truth
+
+Consistent practice improves my skills more than studying only when I feel motivated.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started learning technical topics, some concepts were difficult to understand at first. I practiced them repeatedly and asked questions whenever I got confused. After practicing regularly, I became more comfortable with the concepts and could understand the same type of problems more easily
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Trying something myself teaches me more than only reading or watching someone else do it.
 
 ### Evidence from my life
 
-Add your answer here...
+While learning GitHub, VS Code, and DevOps-related tools, I faced problems during installation and while completing tasks. Instead of only watching tutorials, I tried the steps myself and learned from the errors I encountered. This helped me understand the actual process better.
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a difficult task into smaller steps makes it easier to complete.
 
 ### Evidence from my life
 
-Add your answer here...
+When I worked on assignments involving multiple steps, I initially found the complete task confusing. I started completing one step at a time, checking the result before moving to the next step. This reduced my confusion and helped me make steady progress toward completing the assignment.
 
 ---
 
