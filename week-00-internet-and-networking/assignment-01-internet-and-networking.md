@@ -298,19 +298,19 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy understand the basic concepts and follow the steps in the activities. I was also able to complete the tasks with the examples provided.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The difficult part was understanding some of the new concepts and fixing error when my code did not work as expected. it took some time to find and correct the mistakes.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will practise more, improve my understanding of the difficult concept, and spend more time checking and debugging my work.
 
 ---
 
