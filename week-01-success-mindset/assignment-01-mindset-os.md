@@ -342,7 +342,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone on silent while studying.
+Avoid social media during study time.
+Check messages only after completing my focus session.
+Keep my study area clean and organized.
+Avoid unnecessary conversations while doing DMI work.
+Focus on one task at a time without switching between apps.
+Take short breaks when needed and return to the task on time.
 
 ---
 
