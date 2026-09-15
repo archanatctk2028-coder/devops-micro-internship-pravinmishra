@@ -154,7 +154,15 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Basic Internet and Networking Concepts
+
+Packet Switching is a method of sending data over a network by dividing it into small units called packets. These packets can travel through different routes and are reassembled at the destination.
+
+An IP Address is a unique numerical address assigned to a device connected to a network. It helps identify the device and enables data to reach the correct destination.
+
+TCP/IP is a set of communication protocols used on the Internet. TCP ensures that data is delivered correctly and in the proper order, while IP handles addressing and routing.
+
+HTTP/HTTPS are protocols used to transfer web pages and other data between a browser and a web server. HTTPS is the secure version of HTTP because it encrypts the communication, helping protect sensitive information.
 
 ---
 
