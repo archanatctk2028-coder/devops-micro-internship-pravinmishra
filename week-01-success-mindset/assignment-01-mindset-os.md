@@ -398,7 +398,7 @@ https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/in/archana-kota-0a7a41434/ 
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
