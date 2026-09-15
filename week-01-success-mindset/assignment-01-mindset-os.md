@@ -187,13 +187,13 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes:yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+I felt guilty, stressed, and regretful after taking a shortcut instead of doing something properly. At that moment, the shortcut seemed easier and saved some time, but later I realized that I had not learned or completed the task in the right way. I also felt worried that someone might notice what I had done. The experience taught me that shortcuts may give temporary relief, but they can reduce confidence and create unnecessary stress. Since then, I have tried to be more honest with my work and focus on learning the correct way, even when it takes more time.
 
 ---
 
