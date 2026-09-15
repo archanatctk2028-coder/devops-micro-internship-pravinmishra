@@ -321,11 +321,14 @@ Daily: Spend time on career skills and personal development
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+When Will You Do DMI Work? (Days + Time)
+Monday–Thursday: 7:00 PM – 8:00 PM
+Saturday: 10:00 AM – 12:00 PM
+Sunday: 6:00 PM – 7:00 PM for review and planning
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sessions per week
 
 ---
 
