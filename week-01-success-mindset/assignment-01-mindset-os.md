@@ -289,9 +289,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer:yes
 
-Add your answer here...
+I answered Yes because I completed the brain dump by writing down my important tasks, goals, responsibilities, pending work, ideas, and things that were on my mind. This helped me organize my thoughts, reduce mental stress, and understand what I need to focus on. It also helped me prepare a clear plan for the next five months.
 
 ---
 
