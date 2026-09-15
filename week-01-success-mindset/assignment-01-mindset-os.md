@@ -179,7 +179,7 @@ Tag Pravin Mishra in your LinkedIn post, then tag Lead Co-Mentor — Anjana Muth
 
 ### Public Link
 
-Paste your link here:
+https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 `Add your URL here`
 
