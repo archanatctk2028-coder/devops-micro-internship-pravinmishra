@@ -309,7 +309,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: Study and skill development
+Friday: Practice and complete pending tasks
+Saturday: DevOps Micro Internship (DMI) learning and assignments
+Sunday: Weekly review and plan for the next week
+Daily: Spend time on career skills and personal development
 
 ---
 
