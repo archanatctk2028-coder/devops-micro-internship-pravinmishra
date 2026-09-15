@@ -356,15 +356,17 @@ Take short breaks when needed and return to the task on time.
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Biggest insight I got about myself this week
+
+This week I realized that I can learn new things when I stay consistent and give myself enough time. I also understood that having a clear plan helps me stay focused and complete my tasks with more confidence.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and social media. Sometimes I also postpone tasks when they feel difficult. I realized that I need to manage my time better and avoid unnecessary distractions.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work and skill development. During this time, I will keep my phone on silent and focus only on the task I planned for that day.
 
 ### LinkedIn Post
 
