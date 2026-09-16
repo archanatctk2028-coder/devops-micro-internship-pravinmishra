@@ -154,6 +154,19 @@ Hashtags:
 #DMIByPravinMishra #AgenticAI #DevOps
 
 ## Your Article
+# What Does My 2.0 Version Look Like?
+
+Three to seven years from now, my 2.0 version had become a confident and skilled technology professional. I had built a strong career in **DevOps and software development** through continuous learning and real-world projects.
+
+I had completed several projects and created a strong **GitHub portfolio** showing my skills in Python, Git, GitHub, Linux, networking, cloud technologies, and DevOps tools. I had earned relevant certifications and published technical blogs to share my knowledge.
+
+I had worked on real-world projects, contributed to development and deployment processes, and improved my problem-solving skills. I had also developed strong communication, teamwork, and leadership skills.
+
+I had participated in technology communities and helped beginners by sharing useful knowledge and resources. My growth came from consistent learning, completing projects, accepting challenges, and learning from mistakes.
+
+Looking back, I had built a professional identity based on **skills, discipline, confidence, and continuous growth**. My 2.0 version had become someone who could solve problems, learn new technologies, and contribute to the technology community.
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — conducted by Pravin Mishra.**
 
 
 ### Public Link
