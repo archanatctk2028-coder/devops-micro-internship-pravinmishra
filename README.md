@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed<br> | ✅ Solved | https://www.linkedin.com/in/archana-kota-0a7a41434/| https://medium.com/@kotaa210/my-week-00-learning-journey-devops-micro-internship-dmi-cohort-3-18a17dccc63c?postPublishedType=initial |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved| —https://www.linkedin.com/in/archana-kota-0a7a41434/ | https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial— |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved| https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.archana-kota html / | https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial— |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
