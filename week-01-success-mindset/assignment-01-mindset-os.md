@@ -423,7 +423,7 @@ https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: https://www.linkedin.com/in/archana-kota-0a7a41434/ 
+- LinkedIn Post URL: https:https://www.linkedin.com/in/archana-kota-0a7a41434/
 - https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
 ---
 
