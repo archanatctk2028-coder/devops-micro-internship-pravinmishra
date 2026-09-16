@@ -171,7 +171,7 @@ Looking back, I had built a professional identity based on **skills, discipline,
 
 ### Public Link
 
-https://www.linkedin.com/feed/update/urn:li:activity:7505877778622210048/
+
 
 🚀 **My 2.0 Version – A Story of Growth, Skills, and Success**
 
@@ -415,7 +415,6 @@ I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work 
 
 ### LinkedIn Post
 
-https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 
 
@@ -423,7 +422,7 @@ https://www.linkedin.com/in/archana-kota-0a7a41434/
 
 ## 10. Proof of Work
 
--[ LinkedIn Post URL: https://www.linkedin.com/feed/update/urn:li:activity:7505877778622210048/
+-[ LinkedIn Post URL: 
 - https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
 ---
 
