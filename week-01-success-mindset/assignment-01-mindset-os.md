@@ -399,8 +399,7 @@ https://www.linkedin.com/in/archana-kota-0a7a41434/
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/in/archana-kota-0a7a41434/ 
-- Blog / Medium : **ADD LINK HERE**  
-
+- Blog / Medium :https://medium.com/p/6f3adf8c85b6/submission?redirectUrl=https%3A%2F%2Fmedium.com%2Fp%2F6f3adf8c85b6%2Fedit&submitType=publishing-post&postPublishedType=initial
 ---
 
 ## 📌 About DMI & CloudAdvisory
