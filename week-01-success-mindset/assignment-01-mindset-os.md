@@ -422,7 +422,7 @@ https://www.linkedin.com/posts/archana-kota-0a7a41434_what-does-my-20-version-lo
 
 ## 10. Proof of Work
 
--[ LinkedIn Post URL: https://www.linkedin.com/posts/archana-kota-0a7a41434_what-does-my-20-version-look-like-three-activity-7505877778622210048-gzOb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3Jwz8BG4DuYGI1iSJHlGxN4WI08DNP838
+https://www.linkedin.com/posts/archana-kota-0a7a41434_what-does-my-20-version-look-like-three-activity-7505877778622210048-gzOb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3Jwz8BG4DuYGI1iSJHlGxN4WI08DNP838
 - https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
 ---
 
