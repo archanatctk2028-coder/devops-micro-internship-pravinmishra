@@ -414,15 +414,15 @@ My biggest weakness is getting distracted by my phone and social media. Sometime
 I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work and skill development. During this time, I will keep my phone on silent and focus only on the task I planned for that day.
 
 ### LinkedIn Post
-https://www.linkedin.com/posts/archana-kota-0a7a41434_what-does-my-20-version-look-like-three-activity-7505877778622210048-gzOb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3Jwz8BG4DuYGI1iSJHlGxN4WI08DNP838
+https://lnkd.in/p/d22BSBxp
 
 
 
 ---
 
 ## 10. Proof of Work
-
-https://www.linkedin.com/posts/archana-kota-0a7a41434_what-does-my-20-version-look-like-three-activity-7505877778622210048-gzOb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG3Jwz8BG4DuYGI1iSJHlGxN4WI08DNP838
+###linkedin Post
+https://lnkd.in/p/d22BSBxp
 - https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
 ---
 
