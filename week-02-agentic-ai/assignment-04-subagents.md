@@ -60,7 +60,8 @@ The tf-writer uses inherit so that it automatically uses the model configured fo
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1238" height="876" alt="image" src="https://github.com/user-attachments/assets/4dafd3c9-7934-4d2d-906e-368db0c26f0c" />
+
 
 ---
 
