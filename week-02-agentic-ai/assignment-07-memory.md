@@ -41,7 +41,8 @@ Add your screenshot here.
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+<img width="1255" height="712" alt="Screenshot 2026-09-28 214520" src="https://github.com/user-attachments/assets/1dbe7d2f-04ce-49fc-b2f2-7b1055057b5a" />
+
 
 ---
 
