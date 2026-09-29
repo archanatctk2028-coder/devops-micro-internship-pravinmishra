@@ -97,7 +97,7 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 Paste your forked repository URL here:https://github.com/archanatctk2028-code
 
-https://github.com/archanatctk2028-coder/Ultimate-Agentic-DevOps-with-Claude-Code
+https://github.com/archanatctk2028-coder/devops-micro-internship-pravinmishra
 ---
 
 # Completion Checklist
