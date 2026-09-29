@@ -103,7 +103,7 @@ Paste your forked repository URL here:
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+https://lnkd.in/p/duyU9GcS
 
 `Add your URL here`
 ---
