@@ -127,19 +127,6 @@ Prove the logging hook runs after a successful command execution and records Ter
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
 <img width="1811" height="987" alt="image" src="https://github.com/user-attachments/assets/76d93f86-ae66-47e2-99a4-7ed69dee94cc" />
 
----
-
-# Task 9 — Share Your AI Safety Achievement
-
-## Goal
-
-Share how you built safety controls that prevent an AI agent from performing destructive actions.
-
-### Evidence
-
-#### Screenshot 10 — Published post on X or LinkedIn showing your AI safety achievement message and leaderboard progress link visible
-
-Add your screenshot here.
 
 ---
 
