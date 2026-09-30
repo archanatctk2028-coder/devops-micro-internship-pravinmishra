@@ -56,7 +56,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@kotaa210/reflection-week-2-33cd0d9419c4
 
 ---
 
