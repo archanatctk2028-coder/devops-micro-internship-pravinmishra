@@ -125,6 +125,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 <img width="1602" height="1002" alt="image" src="https://github.com/user-attachments/assets/b38b8154-aab6-4009-a079-f72d47107b17" />
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+<img width="1811" height="987" alt="image" src="https://github.com/user-attachments/assets/76d93f86-ae66-47e2-99a4-7ed69dee94cc" />
 
 ---
 
