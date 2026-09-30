@@ -79,10 +79,35 @@ Share your Week 2 learning publicly on LinkedIn.
 ### Submission Field
 
 LinkedIn Post Content (copy-paste here):
+🚀 **Week 2 | DevOps Micro Internship (DMI) with Agentic AI**
 
-```
-Paste your LinkedIn post content here
-```
+This week was an exciting learning experience as I explored **Agentic AI workflows** and learned how AI tools can support real-world DevOps tasks.
+
+🔹 **What I learned this week:**
+• Claude Code and how it can assist with development tasks
+• Skills and Subagents for organizing and automating tasks
+• MCP (Model Context Protocol) and connecting AI with external tools
+• Hooks, Permissions, and Memory for creating more controlled and structured AI workflows
+
+💡 **My key takeaway:**
+I understood that Agentic AI is not just about asking questions to an AI. It is about building a workflow where AI can **understand, plan, use tools, perform actions, and verify results**.
+
+There were challenges while setting up and understanding some of the tools, but working through those challenges helped me improve my **problem-solving, patience, and confidence**.
+
+🎯 **My new habit:**
+I plan to practice consistently, document what I learn, and break complex technical tasks into smaller steps.
+
+I’m looking forward to continuing my learning journey and building more practical projects with **DevOps and Agentic AI**. 🚀
+
+**Week 2 completed! ✅**
+
+P.S. This post is part of the **DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — conducted by Pravin Mishra.**
+
+#DMIByPravinMishra #AgenticAI #DevOps #ClaudeCode #MCP #LearningJourney #DevOpsInternship #Technology #CareerGrowth
+
+View image
+<img width="1803" height="953" alt="image" src="https://github.com/user-attachments/assets/a2c30725-ecef-4df4-b7c4-9204651a02d4" />
+
 
 ---
 
