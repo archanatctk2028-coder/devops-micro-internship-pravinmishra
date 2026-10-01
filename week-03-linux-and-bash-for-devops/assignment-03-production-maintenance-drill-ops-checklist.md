@@ -325,19 +325,25 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because of an incorrect configuration change. The invalid configuration caused the application or Nginx service to fail. After identifying and correcting the configuration error, the service was restarted and the application worked normally again.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+The issue was fixed by identifying and correcting the incorrect configuration. The configuration was tested using nginx -t, and then Nginx was restarted successfully. Finally, the application was tested to confirm that it was restored and working normally.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+To prevent this issue in production systems:
+
+1.Test configurations before deployment using nginx -t.
+2.Keep regular backups of working configurations.
+3.Use version control to track changes.
+4.Test changes in a staging environment first.
+5.Maintain a rollback plan for quick recovery.
 
 ---
 
