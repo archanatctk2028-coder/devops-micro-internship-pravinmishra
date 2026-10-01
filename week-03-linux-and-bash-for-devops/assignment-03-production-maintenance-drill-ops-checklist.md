@@ -359,31 +359,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
-
+SSH key-based authentication is more secure because it uses a private key and public key instead of a password. The private key is kept securely on the user’s device and is not shared with the server. It is also harder to guess or crack than a simple password, providing stronger protection against unauthorized access.
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only required ports should be open on a production server to **reduce security risks**. Every open port can provide a possible entry point for attackers. Closing unnecessary ports reduces the **attack surface** and helps protect the server from unauthorized access and attacks.
+
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
-
+Nginx should be enabled on boot so that it starts automatically whenever the server restarts. This ensures that the website or application becomes available without manual intervention. It helps maintain service availability, reliability, and reduces downtime.
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
-
+Sharing secrets, keys, or credentials publicly can allow unauthorized people to access systems and data. It may lead to data theft, financial loss, service disruption, or security attacks. Therefore, credentials should be kept private and stored securely using environment variables or secret-management tools.
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+
+Cloud resources should be **stopped or terminated when they are no longer needed** because they may continue to consume resources and incur charges. Removing unused resources helps **reduce costs**, improve resource management, and avoid unnecessary security risks.
+
 
 ---
 
