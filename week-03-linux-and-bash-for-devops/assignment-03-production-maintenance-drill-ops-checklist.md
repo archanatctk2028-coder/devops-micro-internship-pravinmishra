@@ -101,8 +101,15 @@ If Nginx fails to restart in production, the website or application may become u
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+A rollback plan is a method of returning an application to its previous stable version when a new deployment fails.
 
+Identify the deployment problem.
+Stop or pause the failed deployment.
+Restore the previous stable version.
+Restart the required services.
+Test the application to confirm it is working properly.
+
+This helps reduce downtime and restore the application quickly.
 ---
 
 # Task 3 — Logs & Request Trace
