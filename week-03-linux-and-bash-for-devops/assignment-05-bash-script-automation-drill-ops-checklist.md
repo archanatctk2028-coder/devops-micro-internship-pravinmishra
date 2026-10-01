@@ -36,19 +36,27 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
-
+Bash (Bourne Again Shell) is a command-line shell used in Linux and Unix systems. It allows users to run commands, manage files, execute programs, and automate tasks using scripts. Bash is widely used in Linux administration, DevOps, and cloud computing.
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a program that allows users to interact with the operating system using commands. Bash is one specific type of shell called Bourne Again Shell.
+
+Shell: General term for command-line interpreters.
+Bash: A specific and widely used shell.
+Examples of shells: Bash, Zsh, Fish, and Sh.
+Bash supports commands, scripting, variables, loops, and functions.
+
+In short: Shell is a general category, while Bash is a specific type of shell.
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+It is important to confirm the Bash version because different Bash versions may support different features and syntax. Checking the version helps ensure that the script will run correctly and avoids compatibility errors.
+
+Example: Some commands or features available in newer Bash versions may not work in older versions.
 
 ---
 
