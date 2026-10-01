@@ -26,7 +26,7 @@ An AWS account is an account used to access Amazon Web Services (AWS) cloud serv
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier allows new users to use selected AWS services for free within specified usage limits. It helps beginners learn and practice cloud services without paying for eligible usage. The duration depends on the service and offer—some are free for 12 months, while others are always free within monthly limits.
 
 ---
 
