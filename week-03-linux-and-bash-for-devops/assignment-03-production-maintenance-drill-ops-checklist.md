@@ -49,13 +49,13 @@ Answer the following in your own words:
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
 The command sudo ss -tlnp | grep :80 can be used to check whether Nginx is listening on port 80.
-
 If the output shows 0.0.0.0:80, it proves that Nginx is listening on port 80 on all network interfaces. This means the server can accept HTTP connections from external clients.
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The command sudo ss -tlnp | grep :22 can be used to check SSH.
+If the output shows :22 with sshd, it proves that the SSH service is active and listening on port 22. This allows remote users to connect to the server using SSH.
 
 ---
 
