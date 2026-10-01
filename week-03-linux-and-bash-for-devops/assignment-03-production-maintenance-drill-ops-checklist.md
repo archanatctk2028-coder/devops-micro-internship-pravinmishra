@@ -277,20 +277,26 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
-
+The configuration failure was caused by an incorrect or invalid configuration setting in the Nginx configuration file. Because of this, Nginx could not validate or load the configuration properly. Correcting the configuration and testing it with nginx -t resolves the issue.
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+The issue was fixed by identifying and correcting the incorrect Nginx configuration. First, the configuration was tested using nginx -t. After fixing the error, Nginx was restarted successfully. Finally, the application was checked to confirm that it was working properly.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+This type of issue can be avoided by:
 
+Testing configuration before applying changes using nginx -t.
+Taking backups of working configuration files.
+Using version control to track configuration changes.
+Testing changes in a staging environment before production.
+Keeping a rollback plan ready in case of failure.
+
+These practices help reduce downtime and production errors.
 ---
 
 # Task 7 — Web Application Failure Simulation
