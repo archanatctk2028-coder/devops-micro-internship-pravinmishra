@@ -35,7 +35,8 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![Uploading image.png…]()
+
 
 ---
 
