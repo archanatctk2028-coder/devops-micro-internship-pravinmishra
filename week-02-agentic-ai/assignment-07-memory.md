@@ -35,7 +35,8 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![Uploading image.png…]()
+<img width="1266" height="293" alt="image" src="https://github.com/user-attachments/assets/ec66c0dd-e605-4265-87f5-d4d63e82b7f1" />
+
 
 
 ---
