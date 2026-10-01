@@ -159,7 +159,7 @@ If there were no errors, it indicates that the system is functioning normally an
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, the curl requests were visible in the Nginx access logs. This proves that the requests successfully reached the Nginx server and were processed. It confirms that the network traffic was flowing correctly from the client to the server through Nginx.
 
 ---
 
