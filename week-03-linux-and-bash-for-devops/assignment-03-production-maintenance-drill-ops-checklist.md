@@ -242,8 +242,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
-
+We can confirm the correct application version by checking the version number or Git commit ID deployed on the server. We can also compare it with the expected release version and test the application. If they match, it confirms that the correct version is deployed.
 ---
 
 # Task 6 — Nginx Configuration Failure Simulation
