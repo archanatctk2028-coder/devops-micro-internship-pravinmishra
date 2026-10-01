@@ -32,7 +32,13 @@ AWS Free Tier allows new users to use selected AWS services for free within spec
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+The AWS Free Tier provides limited free usage of selected AWS services for learning and practice.
+
+Amazon EC2 – Up to 750 hours/month of eligible usage for 12 months.
+Amazon S3 – Up to 5 GB of standard storage for 12 months.
+Amazon RDS – Up to 750 hours/month of eligible usage for 12 months.
+
+These free limits help beginners learn cloud computing and practice DevOps without paying, as long as they stay within the applicable Free Tier limits.
 
 ---
 
