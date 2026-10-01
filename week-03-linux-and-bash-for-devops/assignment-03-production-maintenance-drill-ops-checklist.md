@@ -153,7 +153,7 @@ During the check, no recent errors were found in the Nginx error log. An empty e
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+If there were no errors, it indicates that the system is functioning normally and reliably. The services are running properly, and no major problems were detected in the logs during the checking period. It also suggests that the system configuration is working as expected. However, regular monitoring is still important to detect future issues.
 
 ---
 
