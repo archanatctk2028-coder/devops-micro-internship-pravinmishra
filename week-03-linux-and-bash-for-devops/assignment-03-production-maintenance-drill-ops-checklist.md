@@ -61,8 +61,7 @@ If the output shows :22 with sshd, it proves that the SSH service is active and 
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
-
+After checking the server’s open ports, no unexpected open ports were found. The required ports, such as 22 for SSH and 80 for HTTP, were open. This indicates that the server is properly configured and unnecessary network access is avoided.
 ---
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
