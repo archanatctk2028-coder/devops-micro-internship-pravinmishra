@@ -201,14 +201,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+The memory (RAM) looks most critical right now because high memory usage can slow down the server and affect application performance. If memory becomes full, services may become unstable or stop working. Therefore, memory usage should be monitored regularly.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
-
+If the disk becomes 100% full, the server may not be able to create or save new files. This can cause applications and services to fail, logs may stop recording, and databases may face problems. It can also make the server slow or unavailable. Therefore, disk usage should be monitored and unnecessary files or old logs should be removed regularly.
 ---
 
 # Task 5 — Configuration & Deployment Verification
