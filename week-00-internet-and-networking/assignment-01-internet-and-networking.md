@@ -255,8 +255,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-https://lnkd.in/p/dPgsAzU3
-
+https://lnkd.in/p/d5g4tdxP
 `
 
 ```
