@@ -414,7 +414,7 @@ My biggest weakness is getting distracted by my phone and social media. Sometime
 I will spend one focused hour every evening from 7:00 PM to 8:00 PM on DMI work and skill development. During this time, I will keep my phone on silent and focus only on the task I planned for that day.
 
 ### LinkedIn Post
-https://lnkd.in/p/d22BSBxp
+https://lnkd.in/p/dTxyNZdb
 
 
 
@@ -422,7 +422,7 @@ https://lnkd.in/p/d22BSBxp
 
 ## 10. Proof of Work
 ###linkedin Post
-https://lnkd.in/p/d22BSBxp
+https://lnkd.in/p/dTxyNZdb
 - https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
 ---
 
