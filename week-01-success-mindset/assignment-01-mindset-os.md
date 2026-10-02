@@ -423,7 +423,7 @@ https://lnkd.in/p/dTxyNZdb
 ## 10. Proof of Work
 ###linkedin Post
 https://lnkd.in/p/dTxyNZdb
-- https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?postPublishedType=initial
+https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?sharedUserId=kotaa210
 ---
 
 ## 📌 About DMI & CloudAdvisory
