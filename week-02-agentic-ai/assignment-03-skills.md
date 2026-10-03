@@ -102,7 +102,6 @@ https://github.com/archanatctk2028-coder/devops-micro-internship-pravinmishra
 
 ## LinkedIn post URL
 Paste your forked repository here:
-
 https://lnkd.in/p/duyU9GcS
 ---
 
