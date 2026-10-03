@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed<br> | ✅ Solved |https://www.linkedin.com/in/archana-kota-0a7a41434/|https://medium.com/@kotaa210/my-week-00-learning-journey-devops-micro-internship-dmi-cohort-3-18a17dccc63c?sharedUserId=kotaa210|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved|https://www.linkedin.com/posts/archana-kota-0a7a41434_dmibypravinmishra-agenticai-devops-share-7509610623236919296-ch51/?|https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?sharedUserId=kotaa210|
-| 02 | Agentic AI with Claude Code | ✅ Completed| ✅ Solved |https://lnkd.in/p/dgJ3GZe9| — https://medium.com/@kotaa210/reflection-week-2-33cd0d9419c4|
+| 02 | Agentic AI with Claude Code | ✅ Completed| ✅ Solved |https://www.linkedin.com/posts/archana-kota-0a7a41434_dmibypravinmishra-agenticai-devops-share-7511101030210625536-sHBy/?| — https://medium.com/@kotaa210/reflection-week-2-33cd0d9419c4|
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
