@@ -101,10 +101,9 @@ Paste your forked repository URL here:https://github.com/archanatctk2028-coder/U
 https://github.com/archanatctk2028-coder/devops-micro-internship-pravinmishra
 
 ## LinkedIn post URL
+Paste your forked repository here:
 
 https://lnkd.in/p/duyU9GcS
-
-`Add your URL here`
 ---
 
 # Completion Checklist
