@@ -90,7 +90,7 @@ The human is required to execute the recovery command because recovery actions c
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule that prevents Claude from making an unsupported diagnosis is the evidence-based diagnosis rule. It requires Claude to make conclusions only when they are supported by verified evidence, logs, system status, or observed data. If there is not enough evidence, Claude must clearly state that the cause is unknown instead of guessing or making assumptions. This rule helps prevent incorrect diagnoses and ensures that troubleshooting is accurate, safe, and reliable.
 
 ---
 
