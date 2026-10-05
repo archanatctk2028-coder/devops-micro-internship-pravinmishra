@@ -48,7 +48,7 @@ In short: If systemctl status nginx shows Active: active (running), it proves th
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+A server is listening for HTTP traffic when port 80 is open and in the LISTEN state. Port 80 is the standard port used for HTTP communication. When Nginx is configured and running correctly, it listens on this port and waits for incoming HTTP requests from clients. The LISTEN status proves that the server has successfully opened the port and is ready to receive network connections. Therefore, checking that Nginx is listening on port 80 is evidence that the server is ready to handle HTTP traffic.
 
 ---
 
