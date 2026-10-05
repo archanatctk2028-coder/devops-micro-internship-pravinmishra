@@ -168,31 +168,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores a list of checks or validation steps that need to be performed during the DevOps troubleshooting process. These checks help verify the current condition of the system, such as service status, port availability, system resources, and other required conditions. It allows the automation process to organize multiple checks in one place and use their results to determine whether the system is healthy or requires further action.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each item in the checks array one by one. For every item, it performs the required check and collects or displays the result. This allows multiple system checks to be performed automatically without writing separate code for each check. It makes the DevOps automation process simple, efficient, and repeatable.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Health checks are separated into functions to make the code organized, reusable, and easier to maintain. Each function can handle one specific check, such as checking Nginx status, port availability, or system resources. This makes the code easier to understand and troubleshoot. If a particular check needs to be changed, only its function needs to be modified. It also allows the same health-check functions to be reused in different automation tasks, making the DevOps script more reliable and efficient.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+In a Bash script, $(...) is called command substitution. It is used to run a command and store its output so that the result can be used as a value in another command or variable.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+The script uses different exit codes to clearly indicate the health condition of the system. Each exit code represents a different result, such as HEALTHY when everything is working normally, WARN when there is a possible issue that needs attention, and FAIL when a serious problem is detected. These codes allow other scripts, monitoring tools, or automation systems to quickly understand the result and take appropriate action. This makes DevOps automation more reliable, consistent, and easier to monitor.
 
 ---
 
