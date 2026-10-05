@@ -120,13 +120,13 @@ The Gather phase is the part where Claude collects information about the server 
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes, Claude followed the instruction not to create any files. I verified this by checking the project directory before and after Claude performed the task and confirming that no new files were created or modified. This shows that Claude respected the given operational rule and only performed the allowed actions without making unnecessary changes to the project.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning before coding is useful in DevOps automation because it helps clearly define the goal, required steps, tools, and expected results before making changes. It reduces mistakes and prevents unnecessary or risky actions. A proper plan also helps identify dependencies, security concerns, and possible failures in advance. In automation, where one command can affect multiple systems or resources, planning ensures that the process is safe, repeatable, efficient, and reliable. It also makes troubleshooting easier because each step and its expected outcome are clearly understood.
 
 ---
 
