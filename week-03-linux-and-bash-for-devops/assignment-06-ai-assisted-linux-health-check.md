@@ -274,25 +274,26 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+This skill has Bash, Read, and Grep because its purpose is to inspect and diagnose the system without modifying files. Read and Grep allow Claude to examine files and search for relevant information, while Bash allows it to run approved diagnostic commands.
+
+The Write tool is intentionally not included because Claude should not create or modify files during this task. This provides an additional safety control, preventing accidental changes to the project while troubleshooting.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+disable-model-invocation: true prevents Claude from automatically invoking the skill on its own. The skill can only be used when the human explicitly triggers it. This is useful for safety because the skill may perform important or sensitive operations, and human control ensures that it runs only when intentionally requested. It helps prevent unexpected actions and gives the user better control over the DevOps workflow.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
-
-Add your answer here.
+Bash performs the actual Linux commands and system-level operations, such as checking services, ports, logs, and system health. Claude interprets the results returned by Bash, analyzes the collected information, identifies possible issues based on the available evidence, and explains the findings. Therefore, Bash handles the execution and data collection, while Claude handles the analysis, reasoning, and reporting.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+This approach is better because Claude receives actual evidence from the server, such as service status, port information, logs, and health-check results. With this evidence, Claude can make an accurate, evidence-based assessment instead of guessing or making unsupported assumptions. It also makes troubleshooting more reliable, repeatable, and transparent because the conclusion can be traced back to specific system information.
 
 ---
 
