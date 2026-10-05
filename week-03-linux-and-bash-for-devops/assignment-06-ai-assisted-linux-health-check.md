@@ -114,7 +114,7 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the part where Claude collects information about the server before taking any action. This includes checking the server status, Nginx status, listening ports, logs, CPU and memory usage, and comparing the current state with the healthy baseline. Gathering this evidence helps Claude understand the actual problem before making a diagnosis or suggesting a solution.
 
 ---
 
