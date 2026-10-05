@@ -242,8 +242,7 @@ Add your answer here.
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
-
+The loop ran 5 times in my script, once for each item in the array.
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
