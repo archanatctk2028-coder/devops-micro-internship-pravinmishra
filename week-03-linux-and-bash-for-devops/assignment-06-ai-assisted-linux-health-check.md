@@ -84,7 +84,7 @@ Claude should receive project-specific operational rules so that it understands 
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human is required to execute the recovery command because recovery actions can change or restart important system services and may affect the availability or stability of the server. Human approval provides an additional safety check before making such changes. It prevents Claude or an automated system from performing potentially risky actions without proper verification. The human can review the situation, confirm that the recovery command is appropriate, and execute it when ready. This ensures better control, security, accountability, and safer incident recovery.
 
 ---
 
