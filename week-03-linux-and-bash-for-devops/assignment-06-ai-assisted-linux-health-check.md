@@ -36,7 +36,13 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The following things prove that Nginx is running successfully:
+
+Running systemctl status nginx shows active (running).
+Opening the server’s IP address in a web browser displays the Nginx welcome page.
+The command curl http://localhost returns an HTML response from Nginx.
+
+In short: If systemctl status nginx shows Active: active (running), it proves that Nginx is currently running.
 
 ---
 
