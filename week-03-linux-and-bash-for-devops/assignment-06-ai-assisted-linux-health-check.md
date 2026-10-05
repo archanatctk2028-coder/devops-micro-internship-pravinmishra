@@ -54,7 +54,7 @@ A server is listening for HTTP traffic when port 80 is open and in the LISTEN st
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline is important because it shows the normal condition of the system before an incident occurs. It provides reference values for CPU usage, memory usage, network activity, running services, and other system metrics. During an incident simulation, these values can be compared with the baseline to identify what has changed and determine the impact of the problem. A baseline also helps in detecting unusual behavior, troubleshooting the root cause, and verifying whether the system has returned to normal after the incident is resolved. Therefore, capturing a healthy baseline makes incident detection, analysis, and recovery more accurate and reliable.
 
 ---
 
