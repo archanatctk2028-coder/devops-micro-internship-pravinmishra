@@ -134,19 +134,21 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable in Bash is a named storage location used to hold a value, such as text, numbers, or command output. Variables allow a Bash script to store, access, and reuse information during execution. They make scripts more flexible and easier to manage.
+
+For example, name="Archana" stores the value Archana in the variable name. The value can later be accessed using $name.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+In Bash, spaces around the = sign are not allowed when assigning a value to a variable. Bash treats the assignment as a command when spaces are used, which causes an error.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+In Bash, the value stored inside a variable is accessed by placing a $ symbol before the variable name. This tells Bash to replace the variable name with the value it contains.
 
 ---
 
@@ -176,25 +178,29 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array in Bash is a variable that can store multiple values under a single variable name. Each value is stored at a specific index, starting from 0. Arrays are useful for storing and processing a list of related items, such as filenames, server names, or health checks.
 
 ---
 
 **2. Why are arrays useful in scripts?**
-
-Add your answer here.
+Arrays are useful in Bash scripts because they allow multiple related values to be stored in a single variable. This makes it easier to manage lists of items such as server names, files, commands, or health checks. Arrays can be processed using loops, reducing the need to write the same code repeatedly. They make scripts more organized, efficient, reusable, and easier to maintain. In DevOps automation, arrays are especially useful for performing the same operation on multiple resources automatically.
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+"${tools[@]}" is a Bash syntax used to access all elements of an array named `tools.
+
+Explanation:
+tools → The name of the array.
+[@] → Refers to all elements in the array.
+"..." → Keeps each array element as a separate argument, even if it contains spaces.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The purpose of the for loop in a Bash script is to execute a set of commands repeatedly for each element in a list or array. In this script, the for loop takes each element from the tools array one by one and processes it. It helps automate repetitive tasks, reduces code duplication, and makes the script easier to maintain.
 
 ---
 
