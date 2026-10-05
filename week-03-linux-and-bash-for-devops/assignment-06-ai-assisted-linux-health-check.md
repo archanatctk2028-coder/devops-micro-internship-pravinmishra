@@ -78,7 +78,7 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should receive project-specific operational rules so that it understands how the project should be managed and what actions are allowed or restricted. These rules provide clear instructions about the project's environment, tools, security requirements, coding standards, and operational procedures. They help Claude make accurate decisions, avoid unsafe or unnecessary actions, and follow the team's established workflow. Project-specific rules also improve consistency and reduce mistakes when Claude performs tasks such as troubleshooting, configuration, deployment, or automation. Therefore, giving Claude clear operational rules makes its work safer, more reliable, and better aligned with the project's requirements.
 
 ---
 
