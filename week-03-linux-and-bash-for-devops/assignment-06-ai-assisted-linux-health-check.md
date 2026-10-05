@@ -222,25 +222,29 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The overall status of the healthy baseline is HEALTHY. All important system checks, such as Nginx service status, HTTP port availability, and basic system health, are functioning normally. No critical errors or abnormal conditions were detected. This healthy baseline can be used as a reference point for comparing the system during and after an incident simulation.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The exact Linux evidence is the successful curl response from the application, such as running curl http://localhost and receiving the expected webpage/HTTP response. This proves that the application is reachable and actively serving HTTP traffic.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script returned exit code 0 because all the health checks passed successfully and the system was in a HEALTHY state. Exit code 0 indicates that the script completed successfully without detecting any critical problems.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning means that the system has detected a minor or potentially abnormal condition, but the application is still functioning. It may require attention, but it is not an immediate critical problem.
+
+A failure means that a critical health check has failed and the application or service may not be working correctly. It requires immediate investigation or recovery action.
+
+Therefore, WARN indicates a non-critical issue, while FAIL indicates a critical problem that can affect the application's availability or functionality.
 
 ---
 
