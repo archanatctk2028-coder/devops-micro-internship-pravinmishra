@@ -188,7 +188,7 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+<img width="725" height="623" alt="image" src="https://github.com/user-attachments/assets/48bb0591-512f-4d86-aef5-3312bacc3499" />
 
 ---
 
