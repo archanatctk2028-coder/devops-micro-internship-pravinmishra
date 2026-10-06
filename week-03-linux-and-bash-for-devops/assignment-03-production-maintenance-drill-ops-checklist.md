@@ -176,7 +176,7 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+<img width="805" height="233" alt="image" src="https://github.com/user-attachments/assets/c21214ba-e308-4cfd-8e9a-da75f0dbc21d" />
 
 ---
 
