@@ -87,7 +87,8 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![Uploading image.png…]()
+<img width="1782" height="976" alt="Screenshot 2026-10-06 181825" src="https://github.com/user-attachments/assets/bde6c5f9-437e-41bf-9381-ac27a5a84179" />
+
 
 
 ---
