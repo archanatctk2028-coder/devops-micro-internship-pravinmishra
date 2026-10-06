@@ -131,7 +131,7 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+<img width="1037" height="87" alt="image" src="https://github.com/user-attachments/assets/8faac59b-4837-4645-ac72-73535607e51d" />
 
 ---
 
