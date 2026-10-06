@@ -137,7 +137,8 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+<img width="1347" height="982" alt="image" src="https://github.com/user-attachments/assets/7a6eee00-88d0-4333-9210-cf054d0fb8cb" />
+
 
 ---
 
