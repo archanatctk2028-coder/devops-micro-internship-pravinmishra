@@ -114,7 +114,7 @@ Add your screenshot here.
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
+<img width="1517" height="962" alt="image" src="https://github.com/user-attachments/assets/14b8b7d0-fb80-4a18-9c9b-0117c853c4d0" />
 
 ---
 
