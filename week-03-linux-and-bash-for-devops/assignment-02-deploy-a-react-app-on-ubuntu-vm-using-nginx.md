@@ -51,7 +51,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<img width="716" height="290" alt="Screenshot 2026-10-06 092918" src="https://github.com/user-attachments/assets/66ac7ba7-0cca-4a71-9338-4c9983467cfe" />
 
 ---
 
