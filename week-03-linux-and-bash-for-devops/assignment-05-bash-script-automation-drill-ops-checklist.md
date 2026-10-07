@@ -428,8 +428,7 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
-
+A function in Bash is a block of commands grouped together under a name. It can be called whenever we need to perform the same task.
 ---
 
 **2. Why are functions useful in scripts?**
