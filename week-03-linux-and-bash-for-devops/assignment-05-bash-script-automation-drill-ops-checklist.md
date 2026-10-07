@@ -289,8 +289,7 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
-
+d is a Bash file test operator used to check whether a specified path exists and is a directory. If the path is a directory, the condition returns true; otherwise, it returns false.
 ---
 
 **2. What does `-f` check in Bash?**
