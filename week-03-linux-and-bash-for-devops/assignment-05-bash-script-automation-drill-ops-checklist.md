@@ -245,6 +245,7 @@ We use loops in Bash scripting to repeat a set of commands automatically multipl
 ---
 
 **3. How many times did the loop run in your script?**
+The loop ran 5 times, once for each item in the array.
 
 The loop ran 5 times in my script, once for each item in the array.
 ---
