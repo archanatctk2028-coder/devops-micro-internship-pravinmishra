@@ -444,13 +444,22 @@ Example: A function that checks server status can be called whenever needed inst
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+They avoid repeating the same commands.
+They allow us to reuse code multiple times.
+They make scripts easier to read and understand.
+They make debugging and maintaining scripts easier.
 
+Example: A function that checks server status can be called whenever needed instead of writing the same commands repeatedly.
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+Variables store important values such as file or directory paths.
+Arrays store multiple items, such as a list of tools.
+Loops repeat commands for each item in the array.
+Conditionals check conditions, while files store or provide data, and functions group reusable commands.
+
+Together, these features make the script organized, reusable, and automated.
 
 ---
 
