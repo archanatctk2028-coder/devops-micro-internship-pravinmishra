@@ -300,7 +300,14 @@ d is a Bash file test operator used to check whether a specified path exists and
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+File and directory paths should be stored in variables because it makes Bash scripts easier to read, reuse, and modify.
+
+4-mark answer:
+
+It avoids repeating the same path multiple times.
+It makes the script easier to understand.
+If the path changes, we only need to change it in one place.
+It reduces typing mistakes and makes the script easier to maintain.
 
 ---
 
