@@ -252,7 +252,8 @@ The loop ran 5 times in my script, once for each item in the array.
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would add 5 more items to the array, so the loop runs 10 times.
+
 
 ---
 
