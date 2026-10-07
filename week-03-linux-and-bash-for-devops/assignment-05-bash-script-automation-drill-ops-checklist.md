@@ -313,7 +313,7 @@ It reduces typing mistakes and makes the script easier to maintain.
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+If the file does not exist, -f returns false. Bash then executes the else block, if present. This helps the script safely check for a file before trying to use it.
 
 ---
 
