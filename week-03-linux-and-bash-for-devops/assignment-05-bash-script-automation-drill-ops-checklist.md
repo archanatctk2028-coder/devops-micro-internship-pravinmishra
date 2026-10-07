@@ -374,7 +374,12 @@ It helps scripts make decisions automatically.
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+It checks whether the condition works correctly.
+It helps find errors or bugs in the script.
+It tests different cases, such as true and false conditions.
+It makes the script more reliable and accurate.
+
+Example: If using -ge 18, test with 18, 20, and 15 to check both true and false results.
 
 ---
 
