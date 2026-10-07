@@ -385,7 +385,14 @@ Example: If using -ge 18, test with 18, 20, and 15 to check both true and false 
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Conditionals help automation scripts make decisions automatically based on different condition
+
+They allow scripts to check whether a condition is true or false.
+They can perform different actions based on the result.
+They help handle errors and unexpected situations.
+They make automation scripts more reliable and efficient.
+
+Example: A script can check whether a file exists and create it only if it is missing.
 
 ---
 
