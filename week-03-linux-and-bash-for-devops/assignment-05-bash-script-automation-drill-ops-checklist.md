@@ -294,7 +294,7 @@ d is a Bash file test operator used to check whether a specified path exists and
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+-f is a Bash file-test operator used to check whether a specified path exists and is a regular file. It returns true if the file exists and is not a directory.
 
 ---
 
