@@ -234,7 +234,7 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+A loop is a programming statement that repeats a set of instructions multiple times until a specified condition is met.
 
 ---
 
