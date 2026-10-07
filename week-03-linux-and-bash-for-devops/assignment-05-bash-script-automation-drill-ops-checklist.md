@@ -355,13 +355,20 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+The if-else statement in Bash is used to make decisions based on a condition.
+
+4-mark answer:
+
+if checks whether a condition is true.
+If the condition is true, the if block runs.
+If the condition is false, the else block runs.
+It helps scripts make decisions automatically.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge is a Bash numeric comparison operator that means greater than or equal to. It checks whether the first number is greater than or equal to the second number.
 
 ---
 
