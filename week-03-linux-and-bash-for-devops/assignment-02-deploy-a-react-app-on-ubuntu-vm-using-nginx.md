@@ -94,7 +94,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+<img width="1262" height="975" alt="image" src="https://github.com/user-attachments/assets/e238471c-5188-410f-bc92-c56bdebe70c7" />
 
 ---
 
