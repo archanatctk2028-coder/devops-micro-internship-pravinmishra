@@ -155,7 +155,7 @@ https://lnkd.in/p/dvK4x8W5
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3380490-38e7-45b7-811f-a8b905c955a2" />
 
 ---
 
