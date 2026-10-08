@@ -404,7 +404,7 @@ Cloud resources should be **stopped or terminated when they are no longer needed
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dTPjaRne
 
 ---
 
