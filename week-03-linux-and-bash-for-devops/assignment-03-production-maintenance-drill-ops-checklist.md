@@ -410,7 +410,8 @@ https://lnkd.in/p/dTPjaRne
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fbcf90fa-bea0-42a1-8119-7611e8dbe8e5" />
 
 ---
 
