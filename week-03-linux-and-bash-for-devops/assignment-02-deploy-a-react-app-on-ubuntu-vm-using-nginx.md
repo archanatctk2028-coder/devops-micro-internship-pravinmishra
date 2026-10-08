@@ -149,7 +149,7 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dvK4x8W5
 
 ---
 
