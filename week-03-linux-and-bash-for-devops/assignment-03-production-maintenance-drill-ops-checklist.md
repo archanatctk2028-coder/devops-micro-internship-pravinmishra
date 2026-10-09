@@ -20,7 +20,9 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+
+![Uploading Screenshot 2026-10-09 205421.png…]()
+
 
 ---
 
