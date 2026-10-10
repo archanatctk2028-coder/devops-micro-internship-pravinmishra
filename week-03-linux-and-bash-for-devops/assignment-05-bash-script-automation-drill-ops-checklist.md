@@ -494,7 +494,7 @@ https://lnkd.in/p/dCYW9nGK
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d6ff2ff-c1ea-41ec-b2bd-a348252ea243" />
 
 ---
 
