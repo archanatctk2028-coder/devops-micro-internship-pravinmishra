@@ -488,7 +488,7 @@ Together, these features make the script organized, reusable, and automated.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dCYW9nGK
 
 ---
 
