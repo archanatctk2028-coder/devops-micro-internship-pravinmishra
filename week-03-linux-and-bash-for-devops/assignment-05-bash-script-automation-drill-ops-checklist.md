@@ -275,7 +275,8 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+<img width="760" height="158" alt="image" src="https://github.com/user-attachments/assets/25510d13-96d6-4f86-b9d6-652d2c851d51" />
+
 
 ---
 
