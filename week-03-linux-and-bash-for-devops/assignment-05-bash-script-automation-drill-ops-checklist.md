@@ -86,7 +86,7 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+<img width="501" height="95" alt="image" src="https://github.com/user-attachments/assets/08868d36-6c33-4cc9-a0ed-dc2c95fd0350" />
 
 ---
 
