@@ -285,9 +285,10 @@ Add your screenshot here.
 
 ---
 
-#### Screenshot 3 — Output of `./file-check.sh`
+#### Screenshot 3 — Output of `./file-check.s
 
-Add your screenshot here.
+<img width="670" height="138" alt="Screenshot 2026-10-10 135412" src="https://github.com/user-attachments/assets/3cd41f6b-70fc-4a27-8ae6-67a72aa82b8a" />
+
 
 ---
 
