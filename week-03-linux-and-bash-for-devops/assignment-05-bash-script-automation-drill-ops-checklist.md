@@ -80,7 +80,8 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+<img width="512" height="135" alt="image" src="https://github.com/user-attachments/assets/17c24343-922f-461f-ac5a-938b8c50efe0" />
+
 
 ---
 
