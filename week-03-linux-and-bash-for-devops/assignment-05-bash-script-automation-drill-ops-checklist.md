@@ -123,7 +123,9 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
+
+
+<img width="892" height="492" alt="Screenshot 2026-10-10 123624" src="https://github.com/user-attachments/assets/659ac922-7eb6-4089-9c1f-7a3e3e31fe22" />
 
 ---
 
