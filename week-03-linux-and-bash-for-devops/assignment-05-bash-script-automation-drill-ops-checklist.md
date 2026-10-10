@@ -421,7 +421,7 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+<img width="865" height="982" alt="image" src="https://github.com/user-attachments/assets/82cfd836-3977-49c4-9d50-624ec362f865" />
 
 ---
 
