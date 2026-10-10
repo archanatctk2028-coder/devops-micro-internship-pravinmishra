@@ -74,7 +74,7 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+<img width="1595" height="982" alt="image" src="https://github.com/user-attachments/assets/386deb9c-fd5e-4317-ab9d-b976fde69d18" />
 
 ---
 
