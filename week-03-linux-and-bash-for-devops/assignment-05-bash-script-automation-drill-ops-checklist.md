@@ -281,7 +281,8 @@ Add your screenshot here.
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+<img width="878" height="958" alt="Screenshot 2026-10-10 135222" src="https://github.com/user-attachments/assets/e08a0fe5-59e6-4296-8c81-85cb037d2aab" />
+
 
 ---
 
