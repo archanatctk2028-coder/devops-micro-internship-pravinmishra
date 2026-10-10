@@ -129,7 +129,8 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
+<img width="472" height="192" alt="image" src="https://github.com/user-attachments/assets/94e3d743-af5a-4159-a64c-40fef5c83bd7" />
+
 
 ---
 
