@@ -359,7 +359,8 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+<img width="728" height="211" alt="image" src="https://github.com/user-attachments/assets/0fb400c4-adec-4e00-9375-eacaefd83e45" />
+
 
 ---
 
