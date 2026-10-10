@@ -128,13 +128,14 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dz4JxhX3
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot 2026-10-10 114542" src="https://github.com/user-attachments/assets/f104afcc-1f04-4e83-ab1b-2e1a6d4ebfbd" />
+
 
 ---
 
