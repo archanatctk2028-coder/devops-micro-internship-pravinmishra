@@ -150,7 +150,7 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+<img width="836" height="733" alt="image" src="https://github.com/user-attachments/assets/ede442e0-85bb-4665-8bee-526f93da32de" />
 
 ---
 
