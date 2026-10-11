@@ -337,7 +337,15 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+In a Linux health monitoring script, three checks that may fail during an incident are:
+
+Nginx Service Check: Fails when the Nginx web server is stopped or inactive.
+
+Disk Space Check: Fails when the available disk space is below the required limit.
+
+Memory Check: Fails when the available RAM is below the minimum required threshold.
+
+These checks help identify system problems and maintain server reliability. The script reports failures so that the administrator can take corrective action.
 
 ---
 
