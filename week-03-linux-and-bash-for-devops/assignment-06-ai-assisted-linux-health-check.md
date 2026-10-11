@@ -364,8 +364,17 @@ System Logs: The command journalctl -u nginx may show errors or messages indicat
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+Did Claude execute the recovery command? Why is that important? (4 Marks)
 
+Claude executed the recovery command to restart the Nginx service and restore its availability.
+
+Recovery: The command helps restart Nginx if the service has stopped.
+
+Verification: After recovery, the service status can be checked using systemctl is-active nginx.
+
+Availability: It helps restore access to the website if Nginx was unavailable.
+
+Safety: Verifying the result confirms whether the recovery was successful instead of assuming the problem is fixed.
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
