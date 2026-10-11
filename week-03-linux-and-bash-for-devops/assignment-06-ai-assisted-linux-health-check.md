@@ -508,13 +508,14 @@ The Agentic Loop consists of three main phases: Gather, Act, and Verify. In the 
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/dFMTNtq3
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="Screenshot 2026-10-11 155330" src="https://github.com/user-attachments/assets/d40c5e85-7d25-40e8-8e4b-066c4a67ba93" />
+
 
 ---
 
