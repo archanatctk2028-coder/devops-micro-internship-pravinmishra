@@ -385,7 +385,7 @@ The Bash report represents the Verify phase of the Agentic Loop because it check
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Gather phase of the Agentic Loop because Claude analyzes the collected system information, identifies possible problems, and explains the evidence behind the system's status.
 
 ---
 
