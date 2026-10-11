@@ -351,8 +351,15 @@ These checks help identify system problems and maintain server reliability. The 
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+Nginx is considered unavailable when the following evidence is observed:
 
+Service Status: The command systemctl is-active nginx returns inactive or failed.
+
+HTTP Response: The command curl -I http://localhost fails to connect to the server.
+
+Port Check: Nginx is not listening on port 80, which can be checked using ss -tuln.
+
+System Logs: The command journalctl -u nginx may show errors or messages indicating that the service stopped or failed to start.
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
