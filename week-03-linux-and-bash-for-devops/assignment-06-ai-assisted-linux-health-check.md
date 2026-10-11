@@ -395,7 +395,8 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="802" height="886" alt="image" src="https://github.com/user-attachments/assets/f2b9652b-e0a8-4375-8d32-d4743e993dfb" />
+
 
 ---
 
