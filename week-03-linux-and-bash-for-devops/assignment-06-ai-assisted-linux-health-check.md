@@ -428,32 +428,28 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually executed the Bash command to copy the Linux health report into incident-failure-report.txt and used the cat command to view the report and verify its contents.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
-
+The evidence that proves the service recovered is that the Nginx service status shows active (running), the HTTP request using curl -I http://localhost returns HTTP/1.1 200 OK, and the system logs confirm that Nginx started successfully. These results indicate that Nginx is running and the website is accessible again.
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
-
+The second triage run is necessary to verify that the recovery action was successful. It checks the Nginx service status, memory, disk space, and other system health conditions again. By comparing the results of the first and second runs, we can confirm whether the problem is resolved and the system has returned to a healthy state.
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+ What could go wrong if an AI agent automatically restarted every failed service?**
+ 
+ --
 
----
-
-**5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
-
-Add your answer here.
-
+**5.  What could go wrong if an AI agent automatically restarted every failed service?**
+An AI agent that automatically restarts every failed service could cause service interruptions, data loss, and failures in dependent applications. Repeated restarts may create an endless restart loop without fixing the root cause. It could also restart critical services unnecessarily. Therefore, the AI agent should analyze the failure, assess the risks, obtain approval when required, and verify the service status after recovery.
 ---
 
 # Incident Summary
