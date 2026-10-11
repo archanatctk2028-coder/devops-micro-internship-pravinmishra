@@ -379,7 +379,7 @@ Safety: Verifying the result confirms whether the recovery was successful instea
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Bash report represents the Verify phase of the Agentic Loop because it checks the system's health and confirms whether the system is working correctly. It displays the results, such as PASS, WARN, FAIL, and the overall status. This helps determine whether the recovery action was successful.
 
 ---
 
