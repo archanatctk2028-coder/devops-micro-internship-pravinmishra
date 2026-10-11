@@ -456,52 +456,48 @@ An AI agent that automatically restarts every failed service could cause service
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Kota Archana
 
-**Date:** DD/MM/YYYY
+**Date:** 11/10/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The Nginx web server became unavailable, and users were unable to access the website through their browser. The issue may have occurred because the Nginx service stopped unexpectedly, failed to start correctly, or encountered a configuration or resource-related problem. To investigate the incident, a Linux health-triage Bash script was executed to check the Nginx service status, available memory, disk space, listening ports, and recent system logs.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
-
+The Linux health-triage Bash script checked the Nginx service status, available memory, disk space, listening ports, and system logs. The report showed 7236 MB of available memory, 5 PASS checks, 0 WARN, and 0 FAIL, with the overall status HEALTHY. The system logs confirmed that Nginx started successfully, indicating that the service was running after recovery.
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
-
+The most likely cause of the incident was that the Nginx service stopped temporarily, making the website unavailable. This may have happened due to a service interruption or a configuration issue. The system logs showed that Nginx stopped successfully and was later started again. Further investigation of the logs and configuration is needed to confirm the exact root cause.
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the system health report and identifying that Nginx was unavailable, the administrator approved the recovery action. The Nginx service was restarted using the command sudo systemctl restart nginx. Then, the service status was checked using systemctl is-active nginx, and the website was tested using curl -I http://localhost. The successful service status and HTTP response confirmed that Nginx had recovered and the website was accessible again.
 
 ---
 
 **5. Verification**
-
-Add your answer here.
+After the recovery action, the Nginx service was checked using systemctl is-active nginx. The command returned active, confirming that the service was running. The website was tested using curl -I http://localhost, which returned an HTTP 200 OK response. Finally, the Linux health-triage script was executed again and reported PASS: 5, WARN: 0, FAIL: 0, with the overall status HEALTHY. These results confirmed that the service had recovered successfully.Add your answer here.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The recovery action was performed only after reviewing the system health report and obtaining human approval. Automatically restarting every failed service could cause downtime, data loss, or repeated failures. Therefore, the AI agent should analyze the evidence, recommend a suitable recovery action, and request human approval when necessary. After recovery, the service must be checked again to confirm that it is working correctly and safely.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
-
+The Agentic Loop consists of three main phases: Gather, Act, and Verify. In the Gather phase, Claude collects and analyzes system information, including Nginx status, memory usage, and system logs. In the Act phase, the human-approved recovery command is executed to restore the Nginx service. In the Verify phase, the Bash health-triage script runs again to confirm that the service is working correctly. The final report shows HEALTHY, confirming successful recovery.
 ---
 
 # LinkedIn Post (Required)
