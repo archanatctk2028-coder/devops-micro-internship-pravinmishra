@@ -163,7 +163,8 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+<img width="705" height="101" alt="image" src="https://github.com/user-attachments/assets/4361f1c0-79eb-44f4-a7d0-504c8d9f84e7" />
+
 
 ---
 
