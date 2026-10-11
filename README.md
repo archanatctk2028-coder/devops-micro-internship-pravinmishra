@@ -76,8 +76,8 @@ This is not a course. It is an internship-style program — real deployments, re
 !-- Week 02 → Agentic AI with Claude Code --
 !-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) --
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+!-- Week 03 → Linux & Bash for DevOps --
+!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) --
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
@@ -133,8 +133,8 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed<br> | ✅ Solved |https://www.linkedin.com/posts/archana-kota-0a7a41434_dmi-devops-micro-internship-with-agentic-share-7505506044220194816-kKCH/?|https://medium.com/@kotaa210/my-week-00-learning-journey-devops-micro-internship-dmi-cohort-3-18a17dccc63c?sharedUserId=kotaa210|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved|https://www.linkedin.com/posts/archana-kota-0a7a41434_dmibypravinmishra-agenticai-devops-share-7509610623236919296-ch51/?|https://medium.com/@kotaa210/my-2-0-version-a-story-of-growth-skills-and-success-6f3adf8c85b6?sharedUserId=kotaa210|
 | 02 | Agentic AI with Claude Code | ✅ Completed| ✅ Solved |https://www.linkedin.com/posts/archana-kota-0a7a41434_dmibypravinmishra-agenticai-devops-share-7511101030210625536-sHBy/?| https://medium.com/@kotaa210/reflection-week-2-33cd0d9419c4?sharedUserId=kotaa210|
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ⬜ Not Started | ✅ Solved | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
