@@ -132,7 +132,7 @@ The line in hooks/pre-commit that matched the fake key was the pattern-checking 
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No, this hook might not catch a poorly named variable that stores a secret without the AKIA prefix if it only checks for that specific pattern. This shows that fixed rules can detect known secret formats but may miss secrets written in different formats or hidden in variables. Therefore, a pre-commit hook is useful for basic security checks, but it cannot guarantee that all secrets will be detected.
 
 ---
 
