@@ -222,7 +222,7 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I reviewed the AI-drafted PR description and corrected any inaccurate or unclear statements before using it. I ensured that it accurately described the changes made, the checks performed, and the purpose of the updates. This was important because AI-generated content may contain incorrect assumptions or information that does not match the actual work. Human review helps ensure the PR description is clear, accurate, and trustworthy.
 
 ---
 
