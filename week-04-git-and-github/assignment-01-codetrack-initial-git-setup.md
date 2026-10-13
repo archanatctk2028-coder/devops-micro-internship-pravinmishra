@@ -50,9 +50,9 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
 
----
+---<img width="846" height="342" alt="image" src="https://github.com/user-attachments/assets/98e43e92-3646-4b97-b040-6ae88140e6a8" />
+
 
 # Task 3 — Configure Git Identity Globally
 
