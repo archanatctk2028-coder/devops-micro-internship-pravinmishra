@@ -35,7 +35,15 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch allows developers to work on new features or changes independently without affecting the stable main branch.
+
+1.Isolation: Keeps new changes separate from the main project code.
+
+2.Safety: Prevents unfinished or incorrect changes from affecting the main branch.
+
+3.Testing and Review: Allows developers to test and review changes before merging them into main.
+
+4.Collaboration: Enables multiple developers to work on different features simultaneously.
 
 ---
 
