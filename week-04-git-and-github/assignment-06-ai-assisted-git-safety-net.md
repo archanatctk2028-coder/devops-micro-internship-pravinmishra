@@ -160,7 +160,7 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+The /pr-ready skill has Bash and Read permissions so it can run verification commands and inspect files before a pull request is submitted. It does not have Write permission because its purpose is to check readiness, not modify project files. This follows the principle of least privilege, reducing the risk of accidental changes and keeping the review process safe and reliable.
 
 ---
 
