@@ -106,8 +106,7 @@ The hooks/pre-commit file is tracked in the repository so that the pre-commit ho
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
-
+The hooks/pre-commit Git hook intercepts a Git commit before it is created, while PreToolUse intercepts an AI agent’s tool call before the tool executes. Both check actions before they happen and help enforce safety rules. The main difference is that pre-commit controls Git commits, whereas PreToolUse controls AI agent tool usage.
 ---
 
 # Task 3 — Prove the Hook Blocks the Risky Commit
