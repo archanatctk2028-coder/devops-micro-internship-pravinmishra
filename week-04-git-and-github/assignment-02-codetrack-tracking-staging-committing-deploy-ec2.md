@@ -41,7 +41,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="813" height="305" alt="image" src="https://github.com/user-attachments/assets/99cd9764-e3cc-45fc-a5ad-c59202470652" />
 
 ---
 
