@@ -166,8 +166,7 @@ The /pr-ready skill has Bash and Read permissions so it can run verification com
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
-
+The pre-commit hook and /pr-ready did not necessarily flag the same things because they perform different checks. The pre-commit hook detects secrets using fixed patterns, such as a fake API key with an AKIA prefix. The /pr-ready skill reviews the staged changes for broader issues, such as code quality and pull request readiness. The hook may catch a matching secret that the review overlooks, while /pr-ready may identify problems that the fixed rules cannot detect. Both complement each other to improve code quality and security.
 ---
 
 # Task 5 — Fix the Issues and Re-Verify
