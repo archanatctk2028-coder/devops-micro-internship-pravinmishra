@@ -65,7 +65,15 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+An assignment uses an obviously fake key to demonstrate how API keys and secrets are handled safely without exposing real credentials.
+
+1.Security: Prevents the accidental exposure or misuse of real API keys.
+
+2.Learning Purpose: Helps students understand how applications use keys for authentication.
+
+3.Safe Testing: Allows students to practice configuration and testing without connecting to real services.
+
+4.Cost and Privacy Protection: Prevents unexpected charges and protects access to personal or organizational accounts.
 
 ---
 
