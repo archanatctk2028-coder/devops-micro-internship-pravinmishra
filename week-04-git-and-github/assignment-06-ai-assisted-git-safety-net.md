@@ -127,8 +127,7 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
-
+The line in hooks/pre-commit that matched the fake key was the pattern-checking line that searches for API keys or secret-like strings. It matched because the fake key followed the pattern defined in the script, making it look like a credential. This demonstrates how a pre-commit hook can detect potential secrets and prevent them from being committed to the repository.
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
