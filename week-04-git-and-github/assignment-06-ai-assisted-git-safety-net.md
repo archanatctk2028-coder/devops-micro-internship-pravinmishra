@@ -193,8 +193,7 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
-
+I removed the fake API key from the staged changes and replaced it with a harmless placeholder value. This satisfied the pre-commit hook because the file no longer contained a string matching the secret-detection pattern. After making the change, I staged the updated file again and retried the commit.
 ---
 
 # Task 6 — Push and Open a Pull Request Using the AI Draft
