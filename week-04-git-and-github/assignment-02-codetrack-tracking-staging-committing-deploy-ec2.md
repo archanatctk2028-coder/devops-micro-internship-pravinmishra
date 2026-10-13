@@ -26,7 +26,8 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+<img width="630" height="200" alt="image" src="https://github.com/user-attachments/assets/3a5585ba-537a-479f-afb1-f04186204dcb" />
+
 
 ---
 
