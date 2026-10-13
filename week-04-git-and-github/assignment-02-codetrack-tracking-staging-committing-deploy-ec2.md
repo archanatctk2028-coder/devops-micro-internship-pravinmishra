@@ -55,7 +55,7 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5619ab6f-39fa-424b-b2a6-e802b5d48c3b" />
 
 ---
 
