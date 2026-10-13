@@ -228,14 +228,13 @@ I reviewed the AI-drafted PR description and corrected any inaccurate or unclear
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+If I had blindly copy-pasted the AI's draft without reviewing it, the PR description might contain incorrect information, unsupported claims, or changes that were not actually made. It could mislead reviewers, hide security issues, and cause confusion during code review. Therefore, AI-generated content must always be checked for accuracy and relevance before submission. Human verification ensures that the final PR description is reliable and reflects the actual work completed.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
-
+This PR needs to target my own fork instead of the shared upstream repository because I may not have permission to make changes directly to the original repository. Working on my fork allows me to develop and test changes safely without affecting the shared project. After reviewing and testing the changes, I can submit a pull request to the upstream repository for approval. This protects the original codebase and supports safe collaboration
 ---
 
 # Task 7 — Map the Workflow to the Agentic Loop
