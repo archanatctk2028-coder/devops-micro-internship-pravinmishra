@@ -117,7 +117,8 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="1520" height="488" alt="image" src="https://github.com/user-attachments/assets/050843a7-9884-4e62-9b87-1f885c051808" />
+
 
 ---
 
