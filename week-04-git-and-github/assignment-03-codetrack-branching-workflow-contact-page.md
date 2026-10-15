@@ -34,7 +34,10 @@ Create a branch named exactly `feature/contact-page` and switch to it.
 
 #### Screenshot 2 — Output of `git checkout -b feature/contact-page` and `git branch` showing `* feature/contact-page`
 
-Add your screenshot here.
+
+
+<img width="597" height="272" alt="Screenshot 2026-10-15 203648" src="https://github.com/user-attachments/assets/def374c3-ae1b-4d59-9970-79672249bc86" />
+
 
 ---
 
