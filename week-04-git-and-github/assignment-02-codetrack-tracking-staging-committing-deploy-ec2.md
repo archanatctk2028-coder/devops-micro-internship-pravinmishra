@@ -110,6 +110,8 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
+<img width="1327" height="1186" alt="WhatsApp Image 2026-10-15 at 6 59 28 PM" src="https://github.com/user-attachments/assets/3c3d99ae-2adc-442b-ae91-3903f75d82e2" />
+
 <img width="1500" height="570" alt="image" src="https://github.com/user-attachments/assets/7072547d-3ba3-4c64-9479-ebd12137cfd2" />
 
 
