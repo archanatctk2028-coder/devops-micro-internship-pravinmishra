@@ -124,7 +124,8 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 11 — Output of `git commit`
 
-<img width="843" height="600" alt="image" src="https://github.com/user-attachments/assets/3c5551d2-c8fb-4796-8f2c-f2c1976dec9f" />
+<img width="843" height="600" alt="Screenshot 2026-10-15 183537" src="https://github.com/user-attachments/assets/c788d8c9-8d72-4b0d-8c13-b44b80879a29" />
+
 
 
 ---
