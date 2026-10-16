@@ -84,7 +84,7 @@ Add your screenshot here.
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+<img width="943" height="207" alt="image" src="https://github.com/user-attachments/assets/a1e9aa2d-2b50-4a49-9189-18da6f66f5be" />
 
 ---
 
