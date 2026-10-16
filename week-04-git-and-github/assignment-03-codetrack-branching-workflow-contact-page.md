@@ -132,7 +132,8 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 12 — Output of `ls` showing `contact.html` after the merge
 
-Add your screenshot here.
+<img width="598" height="106" alt="image" src="https://github.com/user-attachments/assets/47c0d8a9-9148-4dfc-93f0-9be4c393e012" />
+
 
 ---
 
