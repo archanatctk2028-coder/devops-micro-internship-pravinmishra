@@ -464,40 +464,37 @@ Fill in all seven sections below in your own words.
 
 **1. Reported Symptom**
 
-The Nginx web server became unavailable, and users were unable to access the website through their browser. The issue may have occurred because the Nginx service stopped unexpectedly, failed to start correctly, or encountered a configuration or resource-related problem. To investigate the incident, a Linux health-triage Bash script was executed to check the Nginx service status, available memory, disk space, listening ports, and recent system logs.
-
+The Linux health-check script was used to check system resources and the Nginx service status.
 ---
 
 **2. Evidence Collected**
 
-The Linux health-triage Bash script checked the Nginx service status, available memory, disk space, listening ports, and system logs. The report showed 7236 MB of available memory, 5 PASS checks, 0 WARN, and 0 FAIL, with the overall status HEALTHY. The system logs confirmed that Nginx started successfully, indicating that the service was running after recovery.
+The report showed approximately 7236 MB of available memory, 5 pass checks, 0 WARN checks, and 0 FAIL checks. The overall status was HEALTHY, with exit code 0. Nginx logs showed recent stop and start messages.
 ---
 
 **3. Most Likely Cause**
 
-The most likely cause of the incident was that the Nginx service stopped temporarily, making the website unavailable. This may have happened due to a service interruption or a configuration issue. The system logs showed that Nginx stopped successfully and was later started again. Further investigation of the logs and configuration is needed to confirm the exact root cause.
+Nginx had recently stopped and started. The exact cause cannot be confirmed from the available evidence alone.
 ---
 
 **4. Human-Approved Recovery Action**
-
-After reviewing the system health report and identifying that Nginx was unavailable, the administrator approved the recovery action. The Nginx service was restarted using the command sudo systemctl restart nginx. Then, the service status was checked using systemctl is-active nginx, and the website was tested using curl -I http://localhost. The successful service status and HTTP response confirmed that Nginx had recovered and the website was accessible again.
-
+Review the evidence and confirm the service status before taking any recovery action. Obtain human approval before making potentially disruptive changes.
 ---
 
 **5. Verification**
-After the recovery action, the Nginx service was checked using systemctl is-active nginx. The command returned active, confirming that the service was running. The website was tested using curl -I http://localhost, which returned an HTTP 200 OK response. Finally, the Linux health-triage script was executed again and reported PASS: 5, WARN: 0, FAIL: 0, with the overall status HEALTHY. These results confirmed that the service had recovered successfully.Add your answer here.
-
+The health-checks report showed HEALTHY with exit code 0. Checks Nginx status and the website's HTTP response to verify that the service is working.
 ---
 
 **6. Safety Decision**
 
-The recovery action was performed only after reviewing the system health report and obtaining human approval. Automatically restarting every failed service could cause downtime, data loss, or repeated failures. Therefore, the AI agent should analyze the evidence, recommend a suitable recovery action, and request human approval when necessary. After recovery, the service must be checked again to confirm that it is working correctly and safely.
-
+The AI agent should collect evidence and recommend action rather than automatically restart every failed service. Automatically restart every failed service. Automatic restart could interrupt users or hide the actual cause of a failure.
 ---
 
 **7. Agentic Loop Mapping**
 
-The Agentic Loop consists of three main phases: Gather, Act, and Verify. In the Gather phase, Claude collects and analyzes system information, including Nginx status, memory usage, and system logs. In the Act phase, the human-approved recovery command is executed to restore the Nginx service. In the Verify phase, the Bash health-triage script runs again to confirm that the service is working correctly. The final report shows HEALTHY, confirming successful recovery.
+Gather: Collect system information and logs. 
+Act: Run approved diagnostic commands. 
+Verify: Review the result and confirm the system status.
 ---
 
 # LinkedIn Post (Required)
