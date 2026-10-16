@@ -167,7 +167,8 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 #### Screenshot 15 (Optional) — Output showing `feature/contact-page` deleted and no longer listed
 
-Add your screenshot here.
+<img width="771" height="180" alt="image" src="https://github.com/user-attachments/assets/cf6e7c3b-0f87-4f54-bfeb-92532e61c66b" />
+
 
 ---
 
