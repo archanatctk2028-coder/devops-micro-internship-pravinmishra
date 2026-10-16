@@ -90,7 +90,8 @@ Add your screenshot here.
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
+<img width="1327" height="1186" alt="WhatsApp Image 2026-10-15 at 6 59 28 PM" src="https://github.com/user-attachments/assets/e5d71b9b-ef60-4d0d-a002-6b3d587acf3b" />
+
 
 ---
 
