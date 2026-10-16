@@ -63,7 +63,8 @@ Add your screenshot here.
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
+<img width="587" height="146" alt="image" src="https://github.com/user-attachments/assets/0ac26825-83b2-4be8-bca8-5b8ef18800e6" />
+
 
 ---
 
