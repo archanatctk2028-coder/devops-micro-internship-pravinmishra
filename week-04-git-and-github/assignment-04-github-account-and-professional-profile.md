@@ -55,7 +55,8 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f89b0c57-f761-4809-b8c8-7eacdc3a6a08" />
+
 
 ---
 
