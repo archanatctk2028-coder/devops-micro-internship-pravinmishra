@@ -112,7 +112,8 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+<img width="1577" height="997" alt="WhatsApp Image 2026-10-17 at 8 28 13 PM" src="https://github.com/user-attachments/assets/c6396a60-294a-4f45-8912-c74a38641530" />
+
 
 ---
 
