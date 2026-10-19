@@ -94,7 +94,7 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+<img width="667" height="192" alt="image" src="https://github.com/user-attachments/assets/8080e05b-d7f0-43b3-9ca1-6144071c2ef9" />
 
 ---
 
