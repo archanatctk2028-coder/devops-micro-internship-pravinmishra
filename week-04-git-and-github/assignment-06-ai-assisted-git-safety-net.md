@@ -155,7 +155,8 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+
+<img width="1420" height="781" alt="image" src="https://github.com/user-attachments/assets/6f4dfa23-0ad6-4d2d-b4fe-ec4db09f5b89" />
 
 ---
 
