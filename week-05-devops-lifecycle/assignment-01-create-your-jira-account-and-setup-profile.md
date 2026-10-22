@@ -35,7 +35,8 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ceb5749-ffc4-44da-ad4b-778c34c85b1f" />
+
 
 ---
 
