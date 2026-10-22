@@ -20,7 +20,8 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 #### Screenshot 1 — Jira welcome page, dashboard, or main workspace after successful login, with your name or avatar visible
 
-Add your screenshot here.
+<img width="1896" height="976" alt="image" src="https://github.com/user-attachments/assets/264ce76e-0754-45d3-b093-efbb5b42dab8" />
+
 
 ---
 
