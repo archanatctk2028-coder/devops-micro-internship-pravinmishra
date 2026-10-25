@@ -324,7 +324,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/archanatctk2028-coder/devops-micro-internship-pravinmishra.git
 
 ---
 
