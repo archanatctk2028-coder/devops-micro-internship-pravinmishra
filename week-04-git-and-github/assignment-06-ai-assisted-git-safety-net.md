@@ -294,8 +294,8 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-https://lnkd.in/p/dWxfTetm
-
+https://lnkd.in/p/d3hJgdMp
+ 
 ---
 
 ## Key Learnings
