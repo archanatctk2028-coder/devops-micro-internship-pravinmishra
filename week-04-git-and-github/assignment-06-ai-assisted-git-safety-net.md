@@ -190,7 +190,8 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+<img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/e038ef00-727a-4b42-8286-7e4c5dd36027" />
+<img width="773" height="646" alt="image" src="https://github.com/user-attachments/assets/467a6ef7-832b-4394-a480-ee5eda02e7d4" />
 
 ---
 
