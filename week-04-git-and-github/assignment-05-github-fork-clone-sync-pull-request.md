@@ -84,7 +84,8 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-Add your screenshot here.
+<img width="1460" height="462" alt="image" src="https://github.com/user-attachments/assets/da17b4b2-91fc-4b28-b7e3-30b8e0ddfcfc" />
+
 
 ---
 
