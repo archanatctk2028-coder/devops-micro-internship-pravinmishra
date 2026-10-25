@@ -252,8 +252,7 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
-
+Collect the required information, understand the task, and inspect the existing system or files before taking action.
 ---
 
 **2. Which step(s) represent Analyze?**
