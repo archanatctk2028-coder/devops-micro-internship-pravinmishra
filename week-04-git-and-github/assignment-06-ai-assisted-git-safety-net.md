@@ -103,11 +103,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
 The hooks/pre-commit file is tracked in the repository so that the pre-commit hook script can be shared with all team members. It allows developers to maintain, review, and update the script using Git version control. It also ensures consistency by applying the same checks and rules before committing code. In contrast, the .git/hooks/ directory is local to each repository, and its files are not tracked by Git.
----
+ 
+ ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
 The hooks/pre-commit Git hook intercepts a Git commit before it is created, while PreToolUse intercepts an AI agent’s tool call before the tool executes. Both check actions before they happen and help enforce safety rules. The main difference is that pre-commit controls Git commits, whereas PreToolUse controls AI agent tool usage.
+
 ---
 
 # Task 3 — Prove the Hook Blocks the Risky Commit
@@ -130,6 +132,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
 The line in hooks/pre-commit that matched the fake key was the pattern-checking line that searches for API keys or secret-like strings. It matched because the fake key followed the pattern defined in the script, making it look like a credential. This demonstrates how a pre-commit hook can detect potential secrets and prevent them from being committed to the repository.
+
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
@@ -253,29 +256,31 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 **1. Which step(s) represent Gather?**
 
 Collect the required information, understand the task, and inspect the existing system or files before taking action.
+
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+Reviewing the gathered information, identifying patterns, and deciding what action is needed.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
-
----
+Human Act: The step where a human reviews the changes and runs git commit, git push, and opens the Pull Request (PR).
+Why: A human must perform these actions to maintain control, verify the changes, protect repository security, and take responsibility before submitting code for review. Claude can assist with preparing changes, but the human makes the final decision.
+ 
+ --
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Checking the Git status, reviewing the changes, and confirming that the commit, push, and Pull Request were completed successfully.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+The pre-commit hook automatically enforces fixed rules, while the AI skill provides intelligent analysis and context-aware guidance. Both are needed because the hook ensures consistent checks, while the AI skill catches issues that require reasoning and understanding.
 
 ---
 
