@@ -302,9 +302,11 @@ https://lnkd.in/p/d3hJgdMp
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+- Learned to create a Git pre-commit hook to detect secret-like patterns and files larger than 1 MB.
+- Understood how to prevent risky commits using automated Git safety checks.
+- Learned to create a restricted Claude Code /pr-ready skill to review staged changes and draft Pull Request descriptions.
+- Understood the importance of human review before committing, pushing, and opening a Pull Request.
+- Learned how the Agentic Loop — Gather → Analyze → Human Act → Verify — helps create a safer and more reliable workflow.
 
 ---
 
