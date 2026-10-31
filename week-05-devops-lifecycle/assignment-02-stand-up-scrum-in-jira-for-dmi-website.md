@@ -57,10 +57,9 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-Add your screenshot here.
+<img width="1592" height="752" alt="image" src="https://github.com/user-attachments/assets/16bc2eb3-efe2-4f47-b0e4-9d2c1b5d493c" />
 
----
-
+----
 # Task 4 — Add Sub-tasks to at Least Two Stories
 
 ## Goal
